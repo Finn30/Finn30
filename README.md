@@ -2,9 +2,9 @@
 
 ### Flutter & Kotlin Mobile Developer | 2+ Years Experience | 4 Published Apps
 
-I build scalable and user-focused mobile applications with experience delivering production-ready solutions across e-mobility, attendance systems, and IoT products.
+I build scalable and user-focused mobile applications with experience delivering production-ready solutions across e-mobility, attendance systems, IoT, location-based services, and payment integrations.
 
-Over the past 2+ years, I’ve developed and published multiple applications used by more than **10,000 users**, focusing on performance, maintainable architecture, and great user experiences.
+Over the past 2+ years, I’ve developed and published multiple applications used by more than **10,000 users**, focusing on performance, maintainable architecture, and user experience.
 
 ---
 
@@ -12,9 +12,11 @@ Over the past 2+ years, I’ve developed and published multiple applications use
 
 * 📱 Published **4 production mobile applications**
 * 👥 Built applications used by **10,000+ users**
-* 🧩 Designed scalable mobile architectures and clean codebases
-* 🔌 Integrated Firebase, REST APIs, Maps, Payments, and IoT services
-* 🎯 Focused on maintainability, performance, and user experience
+* 🧩 Developed scalable and maintainable mobile architectures
+* 🗺️ Integrated **Google Maps API** for location-based features
+* 💳 Implemented **Midtrans Payment Gateway** for payment processing
+* 🔌 Worked with Firebase, REST APIs, and IoT integrations
+* 🎯 Focused on performance, clean architecture, and great UX
 
 ---
 
@@ -26,16 +28,17 @@ Over the past 2+ years, I’ve developed and published multiple applications use
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
 
-### Backend & Services
+### Backend & Integrations
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![Midtrans](https://img.shields.io/badge/Midtrans-00AEEF?style=for-the-badge)
 
-### Tools & Architecture
+### Architecture & Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![Google Maps](https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=for-the-badge\&logo=googlemaps\&logoColor=white)
 
 ---
 
@@ -43,15 +46,19 @@ Over the past 2+ years, I’ve developed and published multiple applications use
 
 ### 🚗 E-Mobility Application
 
-Mobile application with real-time features and scalable architecture.
+Built mobile solutions with location tracking, maps integration, and scalable architecture.
 
 ### 📝 Attendance Management System
 
-Digital attendance solution with integrated monitoring.
+Developed digital attendance workflows with monitoring and reporting features.
 
 ### 🌐 IoT-Based Mobile Application
 
-Mobile interface connected with smart devices and cloud services.
+Connected mobile interfaces with cloud services and smart devices.
+
+### 💳 Payment & Transaction Integration
+
+Implemented secure payment flows using Midtrans and mobile-first checkout experiences.
 
 ---
 
@@ -75,6 +82,6 @@ Mobile interface connected with smart devices and cloud services.
 
 ## ⚡ Fun Facts
 
-* Love building products from idea to production
-* Interested in mobile architecture and scalable apps
-* Always exploring better developer experience and UI performance
+* Love turning ideas into production-ready applications
+* Interested in mobile architecture and scalable systems
+* Enjoy building smooth and impactful user experiences
